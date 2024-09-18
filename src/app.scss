@@ -131,29 +131,6 @@
                     line-height: 20px;
                     letter-spacing: 2px;
                     position: relative;
-                    z-index: 1;
-                    overflow: hidden;
-
-                    &::before{
-
-                    content: "";
-                    width: 160px;
-                    height: 46px;
-                    background-color: #F2994A;
-                    // background-color: transparent;
-                    border: 1px solid #F2994A;
-                    border-radius: 3px;
-                    color: #fff;
-                    font-weight: 400;
-                    font-size: 15px;
-                    line-height: 20px;
-                    letter-spacing: 2px;
-                    position: absolute;
-                    z-index: 2000;
-                    top: 0;
-                    left: 0;
-                }
-                    
                 }
 
             
